@@ -1,4 +1,0 @@
-# AI/ML Engineer Portfolio
-
-This is a minimalist, captivating, and futuristic portfolio website for a Machine Learning and AI Engineer, featuring an interactive AI assistant powered by the Gemini API.
-

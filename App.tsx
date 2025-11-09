@@ -131,7 +131,7 @@ const WORK_EXPERIENCE: WorkExperienceItem[] = [
     {
         role: "Machine Learning & Artificial Intelligence Engineer",
         company: "Plus91 Technology Pvt. Ltd., Pune, India",
-        duration: "Committed from March 2025",
+        duration: "March 2025 - Present",
         summary: "Set to join the AI in MedCare initiative, focusing on integrating artificial intelligence into clinical workflows and diagnostic support systems.",
         details: [
             "Will engineer deep-learning pipelines for automated recognition and structured extraction of diagnostic test forms using Optical Character Recognition (OCR) and computer vision models.",

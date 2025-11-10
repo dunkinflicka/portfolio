@@ -92,7 +92,7 @@ const TOOL_FAMILIES_DATA = [
         }
     },
     {
-        title: "BI & Data Viz",
+        title: "Data Visualisation",
         tools: {
             visible: ['Matplotlib', 'Seaborn', 'Plotly'],
             collapsed: ['Power BI', 'Tableau']

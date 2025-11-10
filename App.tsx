@@ -78,7 +78,7 @@ const TOOL_FAMILIES_DATA = [
         }
     },
     {
-        title: "Data & Databases",
+        title: "Databases",
         tools: {
             visible: ['SQL', 'PostgreSQL', 'Vector DBs (FAISS, Pinecone)'],
             collapsed: ['MongoDB', 'NetworkX', 'Kafka']

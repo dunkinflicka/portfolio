@@ -19,14 +19,14 @@ const PROJECTS: Project[] = [
     {
         title: "Image-to-Image Translation with Cycle-GAN",
         description: "Developed a Cycle-GAN for unpaired image-to-image translation, successfully transforming artistic styles and object domains with enhanced fidelity using Sinkhorn Divergence.",
-        tags: ["GANs", "PyTorch", "Computer Vision", "Generative AI"],
+        tags: ["Cycle-GANs", "PyTorch", "Computer Vision", "Generative AI"],
         imageUrl: "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=600&auto=format&fit=crop",
         githubUrl: "https://github.com/dunkinflicka/cycle-gan-project",
     },
     {
         title: "3D Augmentation for Live Weather Forecasting",
         description: "Built a model for aerospace applications that ingests real-time weather API data, using a CNN for time-series regression and Plotly for an interactive 3D visualization.",
-        tags: ["CNN", "Time Series", "Data Visualization", "Plotly", "API", "TensorFlow"],
+        tags: ["CNN","Computer Vision" ,"Time Series", "Data Visualization", "Plotly", "API", "TensorFlow"],
         imageUrl: "https://images.unsplash.com/photo-1594480621371-290a7d97d02b?q=80&w=600&auto=format&fit=crop",
         githubUrl: "https://github.com/dunkinflicka/weather-forecasting-3d",
     },

@@ -11,7 +11,7 @@ const PROJECTS: Project[] = [
     {
         title: "Stock Price Prediction Using Sentiment Analysis & LSTMs",
         description: "An end-to-end pipeline to forecast Tesla stock prices by integrating historical data with real-time sentiment analysis of financial news and tweets.",
-        tags: ["LSTM", "PyTorch", "Sentiment Analysis", "Hugging Face", "NLP", "Fine-Tuning"],
+        tags: ["LSTM", "PyTorch", "Sentiment Analysis", "Hugging Face", "NLP", "Fine-Tuning","Time Series"],
         imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=600&auto=format&fit=crop",
         githubUrl: "https://github.com/dunkinflicka/stock-prediction-lstm",
         liveUrl: "#",

@@ -9,7 +9,7 @@ Key areas to connect to:
 - Financial Forecasting (LSTMs) -> Autonomous AI Agents (complex reasoning, decision-making).
 - Bayesian Modeling -> AI for Scientific Discovery (drug discovery, climate modeling).
 
-Keep responses concise and conversational. Do not use markdown.`;
+Keep responses concise and conversational. Do not use markdown.No excess explanations. Focus on Anvit More's innovative work and future directions in AI.`;
 
 
 function initializeAi() {
